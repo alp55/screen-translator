@@ -1,0 +1,12 @@
+pyperclip
+keyboard
+deep-translator
+pillow
+pystray
+PySide6
+langdetect
+pywin32>=305
+pyautogui
+deepl
+requests
+pynput
