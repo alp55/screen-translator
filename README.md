@@ -168,7 +168,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to Google Translate and DeepL for their translation APIs
 - OpenRouter for AI model access
-- Icons provided by [Icons8](https://icons8.com)
-
 ---
 Made with ❤️ by Alperen Ulutaş 
